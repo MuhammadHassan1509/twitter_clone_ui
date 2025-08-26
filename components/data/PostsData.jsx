@@ -1,0 +1,66 @@
+// components/data/postsData.js
+const postsData = [
+  {
+    profileImg: "https://pbs.twimg.com/profile_images/1488501171249684481/zK-AQpko_bigger.jpg",
+    name: "DG ISPR",
+    username: "OfficialDGISPR",
+    time: "17h",
+    text: "Field Marshal Syed Asim Munir, NI (M), HJ, Chief of Army Staff:",
+    postImg: "https://pbs.twimg.com/media/GyvN3qhXQAEO62U?format=jpg&name=small",
+    comments: "1.3k",
+    retweets: "2k",
+    likes: "1k",
+    views: "1k",
+  },
+  {
+    profileImg: "https://pbs.twimg.com/profile_images/1151556274364067847/C71zAsVy_bigger.png",
+    name: "Hamid Mir حامد میر",
+    username: "HamidMirPAK",
+    time: "Aug 18",
+    text: "کراچی بارش میں نہیں انسانی غلطیوں کے سمندر میں ڈوب گیا",
+    postImg: "https://pbs.twimg.com/media/GyxSsorXQAAkW1J?format=jpg&name=small",
+    comments: "1k",
+    retweets: "1k",
+    likes: "1k",
+    views: "1k",
+  },
+  {
+    profileImg: "https://pbs.twimg.com/profile_images/1678102817838432257/bhq-CjuJ_bigger.jpg",
+    name: "Madrid Xtra",
+    username: "@MadridXtra",
+    time: "15h",
+    text: "❗️OFFICIAL: Mbappe is MOTM.",
+    postImg: "https://pbs.twimg.com/media/GzJa_J-XMAARfMv?format=jpg&name=small",
+    comments: "96",
+    retweets: "649",
+    likes: "9.2k",
+    views: "133k",
+  },
+  {
+    profileImg: "https://pbs.twimg.com/profile_images/1151556274364067847/C71zAsVy_bigger.png",
+    name: "Hamid Mir حامد میر",
+    username: "HamidMirPAK",
+    time: "Aug 18",
+    text: "کراچی بارش میں نہیں انسانی غلطیوں کے سمندر میں ڈوب گیا",
+    postImg: "https://pbs.twimg.com/media/GyxSsorXQAAkW1J?format=jpg&name=small",
+    comments: "1k",
+    retweets: "1k",
+    likes: "1k",
+    views: "1k",
+  },
+  {
+    profileImg: "https://pbs.twimg.com/profile_images/1151556274364067847/C71zAsVy_bigger.png",
+    name: "Hamid Mir حامد میر",
+    username: "HamidMirPAK",
+    time: "Aug 18",
+    text: "کراچی بارش میں نہیں انسانی غلطیوں کے سمندر میں ڈوب گیا",
+    postImg: "https://pbs.twimg.com/media/GyxSsorXQAAkW1J?format=jpg&name=small",
+    comments: "1k",
+    retweets: "1k",
+    likes: "1k",
+    views: "1k",
+  }
+  
+];
+
+export default postsData;
